@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/socar/static/css/main.ad2694aa.css",
+    "main.js": "/socar/static/js/main.e932342e.js",
+    "static/js/453.8c81e01f.chunk.js": "/socar/static/js/453.8c81e01f.chunk.js",
+    "index.html": "/socar/index.html",
+    "main.ad2694aa.css.map": "/socar/static/css/main.ad2694aa.css.map",
+    "main.e932342e.js.map": "/socar/static/js/main.e932342e.js.map",
+    "453.8c81e01f.chunk.js.map": "/socar/static/js/453.8c81e01f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad2694aa.css",
+    "static/js/main.e932342e.js"
+  ]
+}
